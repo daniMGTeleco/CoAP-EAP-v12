@@ -74,7 +74,7 @@ Para ejecutar esta implementación de EAP sobre CoAP, asegúrese de tener:
    pip install -r requirements.txt
    ```
 3. Descargue la máquina virtual con el EAP Server que contiene el EAP Server a través de [este enlace](https://unioviedo-my.sharepoint.com/:u:/g/personal/uo276425_uniovi_es/EZtMQZl93LxDjEpuAKc5piQB-dPKXL7xn5Bzkd_R5I4Fyw?e=AuiR8q) (descomprimir el .zip).
-4. Abrir la máquina virtual en **VMware Workstation 17 Player** y comprobar que funciona correctamente al introducir la contraseña (**student**).
+4. Abra la máquina virtual en **VMware Workstation 17 Player** y compruebe que funciona correctamente al introducir la contraseña (**student**).
 
 ## Uso
 El proyecto incluye scripts para la ejecución del servicio de autenticación:
