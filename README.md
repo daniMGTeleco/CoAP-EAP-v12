@@ -1,6 +1,6 @@
 # CoAP-EAP-v15
 
-Este repositorio contiene la implementación de la última versión (versión 12) del Internet Draft "EAP-based Authentication Service for CoAP" en Python. Para la implementación de CoAP-EAP se ha empleado el modelo pass-through de su arquitectura, caracterizado por la separación de roles, la externalización de la autenticación y la interacción entre tres elementos principales:
+Este repositorio contiene la implementación de la última versión (versión 15) del Internet Draft "EAP-based Authentication Service for CoAP" en Python. Para la implementación de CoAP-EAP se ha empleado el modelo pass-through de su arquitectura, caracterizado por la separación de roles, la externalización de la autenticación y la interacción entre tres elementos principales:
 
 - **EAP Peer** → Dispositivo IoT que va a ser autenticado.
 - **EAP Authenticator** → Administrador del dominio de seguridad al que se va a unir el EAP Peer. Actúa como intermediario entre el EAP Peer y el EAP Server.
