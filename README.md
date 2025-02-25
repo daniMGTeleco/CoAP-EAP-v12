@@ -21,7 +21,7 @@ Con CoAP-EAP se espera proporcionar un mecanismo estándar de autenticación que
 7. [Reconocimientos](#reconocimientos)
 8. [Licencia](#licencia)
 9. [Contribuciones](#contribuciones)
-10. [Contacto](#contacto)
+10. [Autores y Contacto](#autores-y-contacto)
 
 ## Introducción
 
@@ -124,9 +124,12 @@ Este proyecto se distribuye bajo la licencia **MIT**. Consulte el archivo `LICEN
 
 Antes de enviar, asegúrese de revisar los requisitos de estilo y las dependencias, así como de realizar pruebas.
 
-## Contacto
+## Autores y Contacto
+- Daniel Menéndez González
+- Dan García Carrillo
 
-Si tiene alguna duda o sugerencia, puede contactar con el autor (Daniel Menéndez González) a través de:
+Si tiene alguna duda o sugerencia, puede contactar con los autores a través de:
 
 - **GitHub**: [daniMGTeleco](https://github.com/daniMGTeleco)
-- **Correo electrónico**: [danielmenendezglez@gmail.com](mailto:danielmenendezglez@gmail.com)
+- **Correo electrónico de Daniel Menéndez**: [danielmenendezglez@gmail.com](mailto:danielmenendezglez@gmail.com)
+- **Correo electrónico de Dan García**: [garciadan@uniovi.es](mailto:garciadan@uniovi.es)
