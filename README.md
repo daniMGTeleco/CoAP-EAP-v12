@@ -1,4 +1,4 @@
-# CoAP-EAP-v12
+# CoAP-EAP-v15
 
 Este repositorio contiene la implementación de la última versión (versión 12) del Internet Draft "EAP-based Authentication Service for CoAP" en Python. Para la implementación de CoAP-EAP se ha empleado el modelo pass-through de su arquitectura, caracterizado por la separación de roles, la externalización de la autenticación y la interacción entre tres elementos principales:
 
